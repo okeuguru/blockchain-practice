@@ -1,4 +1,4 @@
-# Hashing Code Exercise
+# Hashing Code Practice
 
 To use this boilerplate code locally follow this steps:
 
