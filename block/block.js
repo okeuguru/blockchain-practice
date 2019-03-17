@@ -33,6 +33,5 @@ class Block {
     });
   }
 }
-
 // Exporting the class Block to be reuse in other files
 module.exports.Block = Block;
