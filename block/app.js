@@ -19,6 +19,5 @@ block.generateHash().then((result) => {
  * Step 3: Run the application in node.js
  *
  */
-
 // From the terminal: cd into Project folder
 // From the terminal: Run node app.js to run the code
