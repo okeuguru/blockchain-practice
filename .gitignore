@@ -1,3 +1,4 @@
 #dependencies
 ./block/node_modules
 ./hashing/node_modules
+./block-explorer/node_modules
